@@ -1,0 +1,113 @@
+Factor,Year,mostDeprived,leastDeprived,symbol
+Premature mortality: all causes < 75 years,1998,814.4,266.4,Pre Mort
+Premature mortality: all causes < 75 years,1999,791.1,262.9,Pre Mort
+Premature mortality: all causes < 75 years,2000,776.6,251.2,Pre Mort
+Premature mortality: all causes < 75 years,2001,773.5,235.7,Pre Mort
+Premature mortality: all causes < 75 years,2002,794.3,237.5,Pre Mort
+Premature mortality: all causes < 75 years,2003,775.7,234,Pre Mort
+Premature mortality: all causes < 75 years,2004,752.8,223.1,Pre Mort
+Premature mortality: all causes < 75 years,2005,714,210.6,Pre Mort
+Premature mortality: all causes < 75 years,2006,737.2,205.2,Pre Mort
+Premature mortality: all causes < 75 years,2007,732.7,203.5,Pre Mort
+Premature mortality: all causes < 75 years,2008,697.8,200.1,Pre Mort
+Premature mortality: all causes < 75 years,2009,680.3,184.5,Pre Mort
+Premature mortality: all causes < 75 years,2010,662.5,196.4,Pre Mort
+Premature mortality: all causes < 75 years,2011,662.5,190.5,Pre Mort
+All-cause mortality: aged 15-44,1998,249.4,56.2,All Mort
+All-cause mortality: aged 15-44,1999,244,48.9,All Mort
+All-cause mortality: aged 15-44,2000,249,52.9,All Mort
+All-cause mortality: aged 15-44,2001,262.8,46.8,All Mort
+All-cause mortality: aged 15-44,2002,255.5,51,All Mort
+All-cause mortality: aged 15-44,2003,258.3,49.5,All Mort
+All-cause mortality: aged 15-44,2004,244.3,44.7,All Mort
+All-cause mortality: aged 15-44,2005,224.7,46.5,All Mort
+All-cause mortality: aged 15-44,2006,248.7,50.2,All Mort
+All-cause mortality: aged 15-44,2007,248.1,37.1,All Mort
+All-cause mortality: aged 15-44,2008,247.9,52.3,All Mort
+All-cause mortality: aged 15-44,2009,237.5,41.6,All Mort
+All-cause mortality: aged 15-44,2010,238.3,46.7,All Mort
+All-cause mortality: aged 15-44,2011,241.3,38.7,All Mort
+Coronary Heart Disease: 1st hospital admission for heart attack < 75 years,1998,144.4,70.4,CHD-Ad
+Coronary Heart Disease: 1st hospital admission for heart attack < 75 years,1999,138.8,65.6,CHD-Ad
+Coronary Heart Disease: 1st hospital admission for heart attack < 75 years,2000,123.9,58.2,CHD-Ad
+Coronary Heart Disease: 1st hospital admission for heart attack < 75 years,2001,123.1,59.6,CHD-Ad
+Coronary Heart Disease: 1st hospital admission for heart attack < 75 years,2002,134.3,60.2,CHD-Ad
+Coronary Heart Disease: 1st hospital admission for heart attack < 75 years,2003,141.6,43.6,CHD-Ad
+Coronary Heart Disease: 1st hospital admission for heart attack < 75 years,2004,124.9,50.1,CHD-Ad
+Coronary Heart Disease: 1st hospital admission for heart attack < 75 years,2005,110.5,51.7,CHD-Ad
+Coronary Heart Disease: 1st hospital admission for heart attack < 75 years,2006,99.7,46.1,CHD-Ad
+Coronary Heart Disease: 1st hospital admission for heart attack < 75 years,2007,94.7,42.2,CHD-Ad
+Coronary Heart Disease: 1st hospital admission for heart attack < 75 years,2008,93.0,41.1,CHD-Ad
+Coronary Heart Disease: 1st hospital admission for heart attack < 75 years,2009,104.8,37.5,CHD-Ad
+Coronary Heart Disease: 1st hospital admission for heart attack < 75 years,2010,118.6,44.3,CHD-Ad
+Coronary Heart Disease: 1st hospital admission for heart attack < 75 years,2011,121.1,48.8,CHD-Ad
+Coronary Heart Disease deaths: aged 45-74 years,1998,526.6,163.1,CHD-De
+Coronary Heart Disease deaths: aged 45-74 years,1999,493.1,144.5,CHD-De
+Coronary Heart Disease deaths: aged 45-74 years,2000,438.8,127.1,CHD-De
+Coronary Heart Disease deaths: aged 45-74 years,2001,412.3,105.8,CHD-De
+Coronary Heart Disease deaths: aged 45-74 years,2002,405.6,106.4,CHD-De
+Coronary Heart Disease deaths: aged 45-74 years,2003,415.2,106.3,CHD-De
+Coronary Heart Disease deaths: aged 45-74 years,2004,366.1,98.3,CHD-De
+Coronary Heart Disease deaths: aged 45-74 years,2005,343.3,82.2,CHD-De
+Coronary Heart Disease deaths: aged 45-74 years,2006,331.7,86.3,CHD-De
+Coronary Heart Disease deaths: aged 45-74 years,2007,330.5,80.8,CHD-De
+Coronary Heart Disease deaths: aged 45-74 years,2008,299.7,59.1,CHD-De
+Coronary Heart Disease deaths: aged 45-74 years,2009,276.4,55.0,CHD-De
+Coronary Heart Disease deaths: aged 45-74 years,2010,257.7,64.4,CHD-De
+Coronary Heart Disease deaths: aged 45-74 years,2011,264.7,60.5,CHD-De
+Trachea/bronchus/lung cancer incidence: aged < 75 years,1998,99.9,23.6,Lung-In
+Trachea/bronchus/lung cancer incidence: aged < 75 years,1999,95.5,22.1,Lung-In
+Trachea/bronchus/lung cancer incidence: aged < 75 years,2000,91.4,25.8,Lung-In
+Trachea/bronchus/lung cancer incidence: aged < 75 years,2001,91.4,21.6,Lung-In
+Trachea/bronchus/lung cancer incidence: aged < 75 years,2002,96.7,24.2,Lung-In
+Trachea/bronchus/lung cancer incidence: aged < 75 years,2003,96.7,18.3,Lung-In
+Trachea/bronchus/lung cancer incidence: aged < 75 years,2004,99.9,24.4,Lung-In
+Trachea/bronchus/lung cancer incidence: aged < 75 years,2005,89.5,21.8,Lung-In
+Trachea/bronchus/lung cancer incidence: aged < 75 years,2006,105.6,25.2,Lung-In
+Trachea/bronchus/lung cancer incidence: aged < 75 years,2007,101.2,22.2,Lung-In
+Trachea/bronchus/lung cancer incidence: aged < 75 years,2008,100.4,22.2,Lung-In
+Trachea/bronchus/lung cancer incidence: aged < 75 years,2009,102.1,23.0,Lung-In
+Trachea/bronchus/lung cancer incidence: aged < 75 years,2010,99.4,22.6,Lung-In
+Trachea/bronchus/lung cancer incidence: aged < 75 years,2011,93.3,20.8,Lung-In
+Trachea/bronchus/lung cancer deaths: aged 45-74 years,1998,246.3,51.8,Lung-De
+Trachea/bronchus/lung cancer deaths: aged 45-74 years,1999,234.0,58.0,Lung-De
+Trachea/bronchus/lung cancer deaths: aged 45-74 years,2000,213.8,60.8,Lung-De
+Trachea/bronchus/lung cancer deaths: aged 45-74 years,2001,226.7,53.5,Lung-De
+Trachea/bronchus/lung cancer deaths: aged 45-74 years,2002,227.5,55.5,Lung-De
+Trachea/bronchus/lung cancer deaths: aged 45-74 years,2003,224.7,43.0,Lung-De
+Trachea/bronchus/lung cancer deaths: aged 45-74 years,2004,213.6,56.5,Lung-De
+Trachea/bronchus/lung cancer deaths: aged 45-74 years,2005,221.1,56.0,Lung-De
+Trachea/bronchus/lung cancer deaths: aged 45-74 years,2006,241.3,52.5,Lung-De
+Trachea/bronchus/lung cancer deaths: aged 45-74 years,2007,233.5,46.6,Lung-De
+Trachea/bronchus/lung cancer deaths: aged 45-74 years,2008,232.1,50.3,Lung-De
+Trachea/bronchus/lung cancer deaths: aged 45-74 years,2009,243.0,51.4,Lung-De
+Trachea/bronchus/lung cancer deaths: aged 45-74 years,2010,219.2,48.3,Lung-De
+Trachea/bronchus/lung cancer deaths: aged 45-74 years,2011,217.4,53.6,Lung-De
+Alcohol: 1st ever hospital admissions aged < 75 years,1998,623.1,102.8,Alc-Ad
+Alcohol: 1st ever hospital admissions aged < 75 years,1999,609.0,102.3,Alc-Ad
+Alcohol: 1st ever hospital admissions aged < 75 years,2000,573.8,106.5,Alc-Ad
+Alcohol: 1st ever hospital admissions aged < 75 years,2001,587.7,99.3,Alc-Ad
+Alcohol: 1st ever hospital admissions aged < 75 years,2002,609.3,98.3,Alc-Ad
+Alcohol: 1st ever hospital admissions aged < 75 years,2003,551.0,103.8,Alc-Ad
+Alcohol: 1st ever hospital admissions aged < 75 years,2004,619.4,101.7,Alc-Ad
+Alcohol: 1st ever hospital admissions aged < 75 years,2005,557.2,107.3,Alc-Ad
+Alcohol: 1st ever hospital admissions aged < 75 years,2006,552.8,95.1,Alc-Ad
+Alcohol: 1st ever hospital admissions aged < 75 years,2007,599.8,113.0,Alc-Ad
+Alcohol: 1st ever hospital admissions aged < 75 years,2008,555.9,115.5,Alc-Ad
+Alcohol: 1st ever hospital admissions aged < 75 years,2009,489.2,101.6,Alc-Ad
+Alcohol: 1st ever hospital admissions aged < 75 years,2010,474.1,96.2,Alc-Ad
+Alcohol: 1st ever hospital admissions aged < 75 years,2011,493.4,88.8,Alc-Ad
+Alcohol: deaths aged 45-74 years,1998,203.1,30.8,Alc-De
+Alcohol: deaths aged 45-74 years,1999,243.9,36.8,Alc-De
+Alcohol: deaths aged 45-74 years,2000,233.1,31.6,Alc-De
+Alcohol: deaths aged 45-74 years,2001,249.3,31.8,Alc-De
+Alcohol: deaths aged 45-74 years,2002,308.4,22.6,Alc-De
+Alcohol: deaths aged 45-74 years,2003,275.5,29.7,Alc-De
+Alcohol: deaths aged 45-74 years,2004,264.5,24.7,Alc-De
+Alcohol: deaths aged 45-74 years,2005,253.3,27.5,Alc-De
+Alcohol: deaths aged 45-74 years,2006,303.4,24.7,Alc-De
+Alcohol: deaths aged 45-74 years,2007,257.2,31.5,Alc-De
+Alcohol: deaths aged 45-74 years,2008,259.3,27.7,Alc-De
+Alcohol: deaths aged 45-74 years,2009,232.2,25.9,Alc-De
+Alcohol: deaths aged 45-74 years,2010,235.6,27.0,Alc-De
+Alcohol: deaths aged 45-74 years,2011,208.8,25.0,Alc-De

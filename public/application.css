@@ -1,0 +1,45 @@
+.navbar-default {
+  background-color: rgb(33,40,63);
+}
+
+.navbar-default .navbar-brand {
+  color: #ffffff;
+  font-size: 26px;
+}
+
+.navbar {
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+}
+
+.background { fill: none; stroke-width:1px; stroke:lightgray; pointer-events: all; }
+.caption { font-weight: bold; font-size: 16px; }
+.key path { display: none; }
+.key line { stroke: #000; shape-rendering: crispEdges; }
+
+.d3-tip { width: 120px; height: 100px; padding: 10px; margin: 20px; background-color: orange; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; }
+.d3-tip p { margin: 0; font-size: 12px; color: white; line-height: 15px; }
+
+.bar { fill: steelblue;  }
+.axis { font: 10px sans-serif; fill: #999; }
+.axis path, .axis line { fill: none; stroke: #b6b6b6; shape-rendering: crispEdges; }
+
+.axis2 { font: 10px sans-serif; fill: #999; }
+.axis2 path, .axis2 line { fill: none; stroke: #b6b6b6; shape-rendering: crispEdges; }
+.mBarLegend { font-weight: bold; font: 10px sans-serif; }
+
+.iRAxis { font: 10px sans-serif; fill: #999; }
+.iRAxis path, .iRAxis line { fill: none; stroke: #b6b6b6; shape-rendering: crispEdges; }
+.iRTypeAxis { font: 11px sans-serif; }
+.iRTypeAxis.active { font-weight: bold; }
+
+.gapAxis { font: 10px sans-serif; fill: #999; }
+.gapAxis path, .gapAxis line { fill: none; stroke: #b6b6b6; shape-rendering: crispEdges; }
+.gapX.gapAxis path { display: none; }
+.gapArea.greater { fill: #d62728; }
+.gapArea.less { fill: #2ca02c; }
+.gapLegend { font-size: 16px; font-weight: bold; text-anchor: middle; }
+
+.gapOverlay { fill: none; pointer-events: all; }

@@ -1,0 +1,16 @@
+inequalityType,absoluteRange,position,group
+Premature mortality: all causes < 75 years,472.0,0,0
+All-cause mortality: aged 15-44,202.6,1,0
+Mental wellbeing (WEMWBS) mean score: adults (aged 16+),-5.0,2,1
+Coronary Heart Disease: 1st hospital admission for heart attack < 75 years,72.3,3,2
+Coronary Heart Disease deaths: aged 45-74 years,204.2,4,2
+Prostate cancer incidence: aged < 75 years,-27.0,5,3
+Prostate cancer deaths: aged 45-74 years,12.1,6,3
+Breast cancer incidence: aged < 75 years,-9.7,7,4
+Breast cancer deaths: aged 45-74 years,-5.3,8,4
+Trachea/bronchus/lung cancer incidence: aged < 75 years,72.5,9,5
+Trachea/bronchus/lung cancer deaths: aged 45-74 years,163.8,10,5
+Colorectal cancer incidence: aged < 75 years,15.8,11,6
+Colorectal cancer deaths: aged 45-74 years,22.2,12,6
+Alcohol: 1st ever hospital admissions aged < 75 years,404.6,13,7
+Alcohol: deaths aged 45-74 years,183.8,14,7

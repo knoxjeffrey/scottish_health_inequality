@@ -1,0 +1,77 @@
+<p>
+  During the 2014 Scottish Referendum part of the desire for change was based around creating a fair and equal society for everyone by narrowing the gap between the richest and poorest. Based on this, and my background in healthcare, I decided to do a bit of investigation into how the general health of Scots differs from the most well off to the least. To be fair, I was expecting there to be a difference but the size of the gap was actually quite surprising as you will see below.
+</p>
+<p>
+  Now, rather than boring you with a lot of tables and dry statistics I decided to put some of my recent work on data visualisation into practice to try and present the information in a more visually interesting way.
+</p>
+<p>
+  I tried to find the most up to date census data that was openly published and to begin with I looked at the good health rate from the Scotland Census 2011 which I managed to pull from the <a title="Office of National Statistics" href="http://www.ons.gov.uk/ons/datasets-and-tables/index.html" target="_blank">Office of National Statistics</a>. The good health rate is the proportion of residents in each parliamentary constituency who reported themselves as having 'Very Good' or 'Good' general health as a percentage of the total of all residents in each constituency.
+</p>
+<p>
+  The map below is interactive (for those with a modern browser) and you can click on each area on the map to zoom in and find out more info:
+</p>
+
+<div class='row'>
+  <div id="health" class="col-sm-6">
+    <script type="text/javascript" src="/vendor/inequality/healthMap.js"></script>
+  </div>
+</div>
+<p>
+  From the map you can see straight away that the south west of Scotland in particular fares worse in terms of self reported health. This is a more general picture across Scotland so I explored further to find differences between the most and least deprived in the population (as defined by the Scottish Index of Multiple Deprivation income and employment domains). The rest of the data is gathered from the <a title="Scottish Government" href="http://www.scotland.gov.uk/Topics/Statistics/Browse/Health" target="_blank">Scottish Government</a> website based on data collected in 2011.
+</p>
+<p>
+  The charts below show the male and female healthy life expectancy figures on a ten point scale from most deprived to least. Healthy life expectancy at birth is a general health quality outcome measure and essentially shows how many years a person can expect to live in good health:
+</p>
+<div class='row'>
+  <div id="maleHLE" class="col-sm-6">
+    <script type="text/javascript" src="/vendor/inequality/maleHLE.js"></script>
+  </div>
+  <div id="femaleHLE" class="col-sm-6">
+    <script type="text/javascript" src="/vendor/inequality/femaleHLE.js"></script>
+  </div>
+</div>
+<p>
+  As you can see from the charts, there is a very clear trend of increasing healthy life expectancy from the most deprived to the least. To make this data even more meaningful I wanted to compare the differences in healthy life expectancy and life expectancy to see what sort of gap there was and in particular to see if the most deprived are likely to live many more years in poor health compared to the least deprived. The charts below show the comparisons for the most and least deprived. You will see that I've overlaid the healthy life and life expectancy bars because I felt it made the comparison a lot clearer:
+</p>
+<div class='row'>
+  <div id="mBarComp" class="col-sm-6">
+    <script type="text/javascript" src="/vendor/inequality/maleBarComparison.js"></script>
+  </div>
+  <div id="fBarComp" class="col-sm-6">
+    <script type="text/javascript" src="/vendor/inequality/femaleBarComparison.js"></script>
+  </div>
+</div>
+<p>
+  Again, there are clear differences. Not only can the least deprived expect to live in good health about as long as the most deprived live in total but the most deprived can expect to live roughly double the years in poor health in comparison to the least deprived. As I said at the beginning of the article, I expected there to be some differences but certainly not as marked as this.
+</p>
+<p>
+  Given the clear differences, I wanted to have a look at what factors in particular might be responsible for creating this health inequality. The absolute range in the chart below is the difference in values between the most and least deprived. Basically, the further the circles are from the zero axis then the greater the gap and circles on the right of the axis indicate the problem being greater for the most deprived whilst circles on the left indicate the problem being greater for the least deprived:
+</p>
+<div class='row'>
+  <div id="inequality" class="col-sm-12">
+    <script type="text/javascript" src="/vendor/inequality/inequalityRange.js"></script>
+  </div>
+</div>
+<p>
+  Premature mortality essentially means that a person has died before the age of their life expectancy and there is a huge gap here and the same goes for all cause mortality for the younger sector of the population. It's a surprising and sad situation that in a well developed country such as Scotland there can still exist such differences in health between the most well off and the least.
+</p>
+<p>
+  Looking at the other figures it strikes me that a factor in the differences we saw from the above charts could be due to lifestyle choices, in particular diet &amp; exercise (play a large role in coronary heart disease), smoking (trachea/bronchus/lung cancer are quite highly attributable to smoking but not the only causes) and alcohol as these are where the absolute ranges are the greatest. Now, how to tackle this is beyond the scope of this article but there is much better information available today for the public to make more informed choices as well as government schemes to reduce the availability and advertising for cigarettes and raising the price of cigarettes and alcohol. I want to see if things like better information and advancements in healthcare have worked to make everyone healthier in comparison to previous years and also to see if the gap between the most and least deprived has changed much over the years.
+</p>
+<p>
+The below graph explores in more detail where the absolute ranges were greatest from above. The data is available from 1998 and shows how the most deprived and least deprived have changed over the years. A green graph indicates that the absolute range between the two has decreased whilst red indicates an increase. There is also a figure that indicates the percentage change from 1998 to 2011. If you hover your mouse (or slide your finger on a touch device) over the graph you can see the percentage changes from year to year. Click the legend at the bottom of the graph to to see the different data sets.
+</p>
+<div class='row'>
+  <div id="inequalityGap" class="col-sm-12">
+    <script type="text/javascript" src="/vendor/inequality/inequalityGap.js"></script>
+  </div>
+</div>
+<p>
+  Hope you found that useful! First up, there's good news in that premature mortality is showing a downward trend for both most and least deprived. It's difficult to know exactly why without further analysis but I'm sure advancements in medical treatments have helped. Also positive is that the absolute range has narrowed in the last 4 years of the data. Also of note is deaths from coronary heart disease with a downward trend and a narrowing gap. Given the initial scale of the problem, reducing these figures has probably had a reasonable effect on the downward trend of premature mortality.
+</p>
+<p>
+  Sadly, for the other data sets the lines are fairly flat and even though in some cases, such as trachea/broncus/lung cancer and alcohol admissions, the gap has narrowed from 1998 to 2011 there are a lot of fluctuations in the figures so it isn't really following a trend yet. More data will be needed to see how this compares in future years.
+</p>
+<p>
+What is clear is that there has existed a gap in the health of the most and least deprived for many years which needs attention in order to narrow it. Hopefully data for more recent years will shed some light on the current picture and I hope for positive results. If not then new ways need to be found to tackle the problems because such health divides in an advanced country should not exist.
+</p>
