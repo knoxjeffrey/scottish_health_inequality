@@ -1,4 +1,9 @@
+Check out my article on Scottish Health Inequality at http://scottish-health-inequality.herokuapp.com/
+This was my first effort at using D3 to generate maps and graphs based on data sets
+
 1. Make sure the 'sinatra' gem is installed.
 2. From the command line, you can start the server by 'ruby main.rb'
 3. If you have the 'shotgun' gem installed, you can instead run 'shotgun main.rb'
 4. ctrl+c to stop the server
+
+
